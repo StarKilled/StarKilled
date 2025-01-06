@@ -112,7 +112,7 @@
     <td>Software Developer</td>
   </tr>
   <tr>
-    <td><a href="mailto:velfinvelasquez@gmail.com">velfinvelasquez@gmail.com</a></td>
+    <td><a href="mailto:anibalalmeidapalacios@gmail.com@gmail.com">anibalalmeidapalacios@gmail.com</a></td>
   </tr>
 </table>
 </p>
